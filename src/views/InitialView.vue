@@ -15,7 +15,7 @@
       ></v-img>
       <v-container style="height: 5vh"></v-container>
       <video-background
-        :src="require(`@/assets/intro.mp4`)"
+        :src="require(`@/assets/intro2.mp4`)"
         style="max-height: 400px; height: 100vh"
       >
       </video-background>
