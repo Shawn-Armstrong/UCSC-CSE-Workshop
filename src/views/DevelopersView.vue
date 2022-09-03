@@ -34,6 +34,7 @@
         </v-col>
       </v-row>
     </v-container>
+    <v-container style="height: 30vh"></v-container>
   </div>
 </template>
 
@@ -55,6 +56,12 @@ export default {
           src: require('../assets/Qian.jpg'),
           name: 'Qian Zhao',
           title: 'Organizer',
+        },
+        {
+          id: 3,
+          src: require('../assets/Shubham.jpeg'),
+          name: 'Shubham Modi',
+          title: 'Videographer',
         },
       ],
     };
