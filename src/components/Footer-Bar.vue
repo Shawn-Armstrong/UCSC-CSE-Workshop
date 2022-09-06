@@ -6,7 +6,10 @@
           {{ new Date().getFullYear() }} —
           <strong>UCSC, CSE Workshop </strong>
 
-          <v-btn href="https://github.com/Shawn-Armstrong" class="ml-5">
+          <v-btn
+            href="https://github.com/Shawn-Armstrong/UCSC-CSE-Workshop"
+            class="ml-5"
+          >
             GitHub
           </v-btn>
         </v-card-text>
